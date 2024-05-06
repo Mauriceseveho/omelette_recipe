@@ -1,0 +1,74 @@
+
+body{
+    margin:0 auto;
+    height: auto;
+    width: auto;
+    background-color:hsl(30, 54%, 90%) ;
+    font-size: 16px; 
+    font-family: "Young Serif", serif;
+    font-weight: 300;
+    font-style: normal;
+    text-align: justify;
+
+    
+
+}
+
+#main-div{
+    margin:20px auto;
+    /* display: flex;
+    flex-direction: column;
+    justify-content: center; */
+    padding: 20px;
+    background-color:hsl(0, 0%, 100%);
+    height:auto;
+    border-radius: 20px;
+    width:500px;
+}
+
+.pic{
+
+  width:auto;
+  height:200px;
+  background: url(image/image-omelette.jpeg);
+  border-radius:20px;
+  background-repeat: no-repeat;
+  background-size:cover;
+  margin-bottom: 0;
+
+}
+
+#section-div{
+    height: auto;
+    padding:10px;
+    margin: 0;
+    background-color:hsl(330, 100%, 98%);
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+#section-div h3{
+    color: hsl(332, 51%, 32%);
+    
+}
+
+h2{
+    color: hsl(14, 45%, 36%);
+}
+
+li{
+   padding:10px;
+   
+   
+}
+
+.table td{
+    padding:10px;
+    border-bottom: 1px solid gray;
+}
+.bold{
+    color: hsl(14, 45%, 36%);
+    font-style: normal;
+    font-weight: bold;
+    
+}
